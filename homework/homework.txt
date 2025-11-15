@@ -1,0 +1,8 @@
+Se le pide a un desarrollador Junior que realice la siguiente tarea:
+
+Hacer una herramienta de conteo de palabras.
+Hacer una herramienta a nivel producción para contar palabras en un archivo de texto.
+Requisitos:
+1. Debe entregarlo tipo herramienta (no en un notebook).
+2. Es posible que el Junior no sea de sistemas.
+3. No debe ser básico.
