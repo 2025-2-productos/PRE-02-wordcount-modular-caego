@@ -28,7 +28,7 @@ def main():
         counter[word] = counter.get(word, 0) + 1
 
     # count the frequency of the words in the files in the input directory
-    # counter = {}
+    ## counter = {}
     # for filename in input_files_list:
     #     with open("data/input/" + filename) as f:
     #         for l in f:
